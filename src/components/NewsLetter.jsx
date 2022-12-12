@@ -2,7 +2,7 @@ import React from 'react'
 
 const NewsLetter = () => {
   return (
-    <div className='w-full py-16 text-white px-5'>
+    <div className='w-full py-16 text-white px-4 '>
         <div className='max-w-[77.5rem] mx-auto grid lg:grid-cols-3'>
             <div className='lg:col-span-2 my-4'>
                 <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'>Okay Ladies, now let's get in formation</h1>
