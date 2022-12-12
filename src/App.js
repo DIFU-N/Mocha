@@ -1,5 +1,6 @@
 import React from 'react';
 import Analytics from './components/Analytics';
+import Cards from './components/Cards';
 import Herro from './components/Herro';
 import NavBar from './components/NavBar';
 import NewsLetter from './components/NewsLetter';
@@ -10,7 +11,8 @@ function App() {
       <NavBar /> 
       <Herro />
       <Analytics />
-      <NewsLetter />    
+      <NewsLetter />  
+      <Cards />  
     </div>
   );
 }
