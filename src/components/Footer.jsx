@@ -29,7 +29,7 @@ const Footer = () => {
             <div>
                 <h6 className='font-medium text-gray-400'>Suits</h6>
                 <ul>
-                    <li className='py-2 text-sm'>Harvey</li>
+                    <li className='py-2 text-sm'><a href='/'>Harvey</a></li>
                     <li className='py-2 text-sm'>Mike</li>
                     <li className='py-2 text-sm'>Louis</li>
                     <li className='py-2 text-sm'>Jessica</li>
